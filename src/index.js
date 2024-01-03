@@ -1,3 +1,3 @@
-// USER B
-console.log('Hello for the world !!!!');
+// USER B and A
+console.log('Hello everyone and the world ??!!');
 console.log('Hello from Utilisateur B !!!!!');
